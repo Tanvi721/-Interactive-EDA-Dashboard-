@@ -8,7 +8,7 @@ This project is designed to simplify **data understanding, pattern discovery, an
 ---
 
 ## 🚀 Live Preview
-👉▶️ **[Watch Full Project Demo]**
+👉▶️ **[Watch Full Project Demo](streamlit-go-2026-01-16-23-01-20.webm)**
 
 
 
