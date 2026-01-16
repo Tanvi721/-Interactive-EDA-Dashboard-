@@ -11,7 +11,7 @@ This project is designed to simplify **data understanding, pattern discovery, an
 👉
 
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch-Demo-blue?style=for-the-badge)](
-https://github.com/USERNAME/REPO_NAME/raw/main/demo/streamlit-go-2026-01-16-23-01-20.webm
+https://github.com/Tanvi721/Interactive EDA Dashboard/raw/main/demo/streamlit-go-2026-01-16-23-01-20.webm
 )
 
 
