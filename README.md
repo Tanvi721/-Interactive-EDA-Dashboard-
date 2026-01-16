@@ -9,10 +9,11 @@ This project is designed to simplify **data understanding, pattern discovery, an
 
 ## 🚀 Live Preview
 👉
+# 📊 Interactive EDA Dashboard
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch-Demo-blue?style=for-the-badge)](
-https://github.com/Tanvi721/Interactive EDA Dashboard/raw/main/demo/streamlit-go-2026-01-16-23-01-20.webm
-)
+## 🎥 Demo Video
+https://github.com/Tanvi721/Interactive-EDA-Dashboard/raw/main/demo/streamlit-go-2026-01-16-23-01-20.webm
+
 
 
 
